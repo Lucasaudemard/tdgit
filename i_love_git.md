@@ -6,3 +6,5 @@ Lines
 
 
 Ne pas confondre git (le logiciel qui est super) et Guy (qui est un super prénom)
+
+Bon ok, c'etait pas foufou
